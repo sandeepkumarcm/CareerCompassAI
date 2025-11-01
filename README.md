@@ -1,9 +1,4 @@
-🧩 Step 1: Fix README to Match Your Own Project
 
-Right now, your README is still from the original repo (YomnaWaleed’s version).
-Let’s personalize it with your name and your version of the project.
-
-Open the file README.md in VS Code → Replace its content with this 👇
 
 # 💼 CareerCompassAI – AI-Powered Job Recommendation System
 
