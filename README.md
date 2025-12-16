@@ -6,6 +6,12 @@
 
 ---
 
+## 🎥 Demo Video
+▶️ https://youtu.be/Tw1c-TbWEWw
+
+---
+
+
 ## 🚀 Overview
 CareerCompassAI is an **AI-driven Job Recommendation System** that analyzes uploaded resumes and intelligently matches candidates with relevant job descriptions based on their **skills, experience, and profile**.
 
