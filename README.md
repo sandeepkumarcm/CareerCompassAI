@@ -81,9 +81,6 @@ Recommendation Output – Displays top matching jobs on Streamlit
 Sandeepkumar C M
 📧 cmsandeeepkumar049@gmail.com
 
-🔗 LinkedIn
-
-💻 GitHub
 
 📌 License
 
